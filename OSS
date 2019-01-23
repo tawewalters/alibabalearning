@@ -2,3 +2,16 @@ Alibaba Cloud Object Storage Service (OSS) is an encrypted, secure, cost-effecti
 An encrypted and secure cloud storage service which stores, processes and accesses massive amounts of data from anywhere in the world
 You can elastically scale the capacity and processing capability, and choose from a variety of storage types to optimize the storage cost.
 
+
+Brady Dale
+2 months ago
+I watched almost all of this series this weekend and it was really helpful at getting to something I had been wanting to chase down for a long time: Git for Writers.
+Just some points of feedback here, for a writers (and since you called this "for poets" i feel like it kinda is)
+It's good up to a point, but a writer is less likely to need help with collaborating and more likely to need help with sorting out merges, old versions and tracking changes in a doc over time. 
+
+Like, okay, I've been working on my short story for months. I look through my logs and see a note three weeks ago and think... man, I should go back to that. So how do I make a branch off an old commit and start working from a new version of that file? 
+
+I guess Github makes this easy, but a writer probably doesn't want all their stuff up on Github. It's too public. How can they do it locally or working with a private server or a service like Keybase Git. 
+
+Anyway: big thought... writers don't need the collaboration tools of Git nearly so much as they need the standalone version control and access at multiple locations. 
+But overall this was super helpful and I'm pretty far along on using Git as a writer now... or at least well begun.
